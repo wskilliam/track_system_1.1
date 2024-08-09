@@ -11,17 +11,19 @@
 - MySQL
 - Node.js com npm ou yarn
 
-## Instalação
+## Instalação ##
 
 1. **Clone o Repositório:**
 
-   ```bash
-   git clone https://github.com/seu-usuario/track_movement.git
-   cd track_movement
+   ````
+   git clone https://github.com/wskilliam/track_system_1.1.git
 
-1- Instale as Dependências do Backend:
-<h1>Copiar código</h1>
-composer install
+2. **Instale as Dependências do Backend:**
+
+_Copiar código:_
+
+````composer install
+
 Instale as Dependências do Frontend:
 
 bash
