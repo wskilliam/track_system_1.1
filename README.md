@@ -4,7 +4,7 @@
 
 <h4>Sistema será utilizado para o cadastro e gerenciamento de trechos de uma determinada rodovia. </h4>
 
- <p>Requisitos</p>
+<p>Requisitos</p>
 
 - PHP 7.1 ou superior
 - Composer
@@ -15,9 +15,9 @@
 
 1. **Clone o Repositório:**
 
-   ````
-   git clone https://github.com/wskilliam/track_system_1.1.git
-   ````
+````
+git clone https://github.com/wskilliam/track_system_1.1.git
+````
 2. **Instale as Dependências do Backend:**
 
 _Copiar código:_
