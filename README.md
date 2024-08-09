@@ -1,8 +1,8 @@
-<h1>Sistema de trechos, utilizei o Framework Laravel 9 com Inertia.js e PHP 8. Para o FRONT-END Vue Composition API e o banco de dados MySQL.</h1>
+<h1>Sistema de trechos</h1>
 
-<h3>Descrição do Sistema:</h3>
+<h2>Descrição do Sistema:</h2>
 
-<h2>Sistema será utilizado para o cadastro e gerenciamento de trechos de uma determinada rodovia. </h2>
+<h4>Sistema será utilizado para o cadastro e gerenciamento de trechos de uma determinada rodovia. </h4>
 
  <p>Requisitos</p>
 
@@ -17,31 +17,32 @@
 
    ````
    git clone https://github.com/wskilliam/track_system_1.1.git
-
+   ````
 2. **Instale as Dependências do Backend:**
 
 _Copiar código:_
 
-````composer install
+````
+composer install
+````
 
-Instale as Dependências do Frontend:
+3. **Instale as Dependências do Frontend:**
 
-bash
-Copiar código
+_Copiar código:_
+````
 npm install
-ou, se você estiver usando Yarn:
+````
 
-bash
-Copiar código
-yarn install
-Configurar o Banco de Dados:
+4. **Configurar o Banco de Dados:**
 
-Copie o arquivo .env.example para .env:
+_Copie o arquivo .env.example para .env:_
 
-bash
-Copiar código
+_Copiar código:_
+````
 cp .env.example .env
-Configure suas credenciais de banco de dados no arquivo .env:
+`````
+
+_Configure suas credenciais de banco de dados no arquivo **.env**:__
 
 env
 Copiar código
