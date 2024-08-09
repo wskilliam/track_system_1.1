@@ -2,7 +2,7 @@
 
 <h2>Descrição do Sistema:</h2>
 
-<h4>Sistema será utilizado para o cadastro e gerenciamento de trechos de uma determinada rodovia. </h4>
+<h4>Sistema de cadastro e gerenciamento de trechos de uma determinada rodovia.</h4>
 
 <p>Requisitos</p>
 <p>- PHP 7.1 ou superior</p>
