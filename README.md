@@ -10,7 +10,7 @@
 <p>- MySQL</p>
 <p>- Node.js com npm ou yarn</p>
 
-**OBS:** __Instalação do sistema operacional Windows 10.__
+**OBS:** __Instalação foi feito no sistema operacional Windows 10.__
 ## Instalação ##
 
 1. **Clone o Repositório:**
