@@ -70,24 +70,15 @@ php artisan migrate
 **Compilar os Arquivos do Frontend:**
 
 _Copiar código:_
+```
 npm run dev
-ou, se estiver usando Yarn:
+````
 
-bash
-Copiar código
-yarn dev
-Iniciar o Servidor:
+5. **Para iniciar o servidor de desenvolvimento:**
 
-Para iniciar o servidor de desenvolvimento:
-
-bash
-Copiar código
+_Copiar código_
+````
 php artisan serve
-O sistema estará disponível em http://localhost:8000.
+````
 
-Testes
-Execute os testes para garantir que o sistema está funcionando corretamente:
-
-bash
-Copiar código
-php artisan test
+6. **O sistema estará disponível em http://localhost:8000/trechos**
