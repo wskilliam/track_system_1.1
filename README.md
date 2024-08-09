@@ -82,3 +82,11 @@ php artisan serve
 ````
 
 6. **O sistema estará disponível em http://localhost:8000/trechos**
+
+7. Fluxo Completo para o Usuário Final
+
+- **Passo 1:** O usuário deve clonar o repositório.
+- **Passo 2:** O usuário instala as dependências do Laravel e do frontend.
+- **Passo 3:** O usuário configura o banco de dados.
+- **Passo 4:** O usuário compila os assets do frontend.
+- **Passo 5:** O usuário executa o servidor localmente.
