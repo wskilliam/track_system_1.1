@@ -46,13 +46,13 @@ _Configure suas credenciais de banco de dados no arquivo **.env**:__
 
 _Copiar código:_
 ````
-<p>DB_CONNECTION=mysql</p>
-<p>DB_HOST=127.0.0.1</p>
-<p>DB_PORT=3306</p>
-<p>DB_DATABASE=track_system</p>
-<p>DB_USERNAME=root</p>
-<p>DB_PASSWORD=admin</p>
-````
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=track_system
+DB_USERNAME=root
+DB_PASSWORD=admin
+`````
 **Gere a chave da aplicação:**
 
 _Copiar código_`
