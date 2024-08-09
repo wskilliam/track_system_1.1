@@ -5,12 +5,12 @@
 <h4>Sistema será utilizado para o cadastro e gerenciamento de trechos de uma determinada rodovia. </h4>
 
 <p>Requisitos</p>
+<p>- PHP 7.1 ou superior</p> 
+<p>- Composer</p>
+<p>- MySQL</p>
+<p>- Node.js com npm ou yarn</p>
 
-- PHP 7.1 ou superior
-- Composer
-- MySQL
-- Node.js com npm ou yarn
-
+**OBS:** __Instalação do sistema operacional Windows 10.__
 ## Instalação ##
 
 1. **Clone o Repositório:**
@@ -44,18 +44,19 @@ cp .env.example .env
 
 _Configure suas credenciais de banco de dados no arquivo **.env**:__
 
-env
-Copiar código
+_Copiar código:_
+<hr>
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=track_movement
-DB_USERNAME=seu_usuario
-DB_PASSWORD=sua_senha
-Gere a chave da aplicação:
+DB_DATABASE=track_system
+DB_USERNAME=root
+DB_PASSWORD=admin
+<hr>
 
-bash
-Copiar código
+**Gere a chave da aplicação:**
+
+_Copiar código_
 php artisan key:generate
 Execute as migrações para criar as tabelas:
 
