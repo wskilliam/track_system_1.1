@@ -45,6 +45,7 @@ cp .env.example .env
 _Configure suas credenciais de banco de dados no arquivo **.env**:__
 
 _Copiar código:_
+````
 <hr>
 <p>DB_CONNECTION=mysql</p>
 <p>DB_HOST=127.0.0.1</p>
@@ -53,20 +54,24 @@ _Copiar código:_
 <p>DB_USERNAME=root</p>
 <p>DB_PASSWORD=admin</p>
 <hr>
-
+````
 **Gere a chave da aplicação:**
 
-_Copiar código_
+_Copiar código_`
+
+````
 php artisan key:generate
-Execute as migrações para criar as tabelas:
+`````
 
-bash
-Copiar código
+**Execute as migrações para criar as tabelas:**
+
+_Copiar código:_
+````
 php artisan migrate
-Compilar os Arquivos do Frontend:
+````
+**Compilar os Arquivos do Frontend:**
 
-bash
-Copiar código
+_Copiar código:_
 npm run dev
 ou, se estiver usando Yarn:
 
