@@ -1,10 +1,10 @@
-Sistema de trechos, utilizei o Framework Laravel 9 com Inertia.js e PHP 8. Para o FRONT-END Vue Composition API e o banco de dados MySQL.
+<h1>Sistema de trechos, utilizei o Framework Laravel 9 com Inertia.js e PHP 8. Para o FRONT-END Vue Composition API e o banco de dados MySQL.</h1>
 
-Descrição do Sistema:
+<h3>Descrição do Sistema:</h3>
 
-Sistema será utilizado para o cadastro e gerenciamento de trechos de uma determinada rodovia. 
+<h2>Sistema será utilizado para o cadastro e gerenciamento de trechos de uma determinada rodovia. </h2>
 
- Requisitos
+ <p>Requisitos</p>
 
 - PHP 7.1 ou superior
 - Composer
